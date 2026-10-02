@@ -1,0 +1,8 @@
+# Compiled output and IDE files
+**/bin/
+**/obj/
+.vs/
+.idea/
+
+# Task scratch space
+/work/
